@@ -1,7 +1,6 @@
 ### Olá! eu sou o Mateus joaquim 👋
 
-- 📖 Estudo:    Informática IFC Campus Sombrio (formado)
-                Engenharia de Computação Ufsc  (cursando)
+- 📖 Estudo:    Informática IFC Campus Sombrio (formado)</br>Engenharia de Computação Ufsc  (cursando)
 
 - 🌱 Aprendendo:    C++/C
 
@@ -18,4 +17,3 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
  </div></br>
-
