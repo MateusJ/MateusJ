@@ -2,7 +2,7 @@
 
 - 📖 Estudo:    Informática IFC Campus Sombrio (formado)</br>Engenharia de Computação Ufsc  (cursando)
 
-- 🌱 Aprendendo:    C++/C/Assembly
+- 🌱 Estudando:    C++/JavaScript/React
 
 - 📧 Contato:       mateus3048@gmail.com
 
