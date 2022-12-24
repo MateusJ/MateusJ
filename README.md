@@ -4,6 +4,8 @@
 
 - 🌱 Estudando:    C++/JavaScript/React
 
+- 🖥️ Afinidade:    PHP/JavaScript/C++
+
 - 📧 Contato:       mateus3048@gmail.com
 
  ![Mateus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusJ&show_icons=true&theme=tokyonight)
